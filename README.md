@@ -1,41 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -60,11 +24,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello microverse] <a name="about-project">Hello microverse project</a>
+# 📖 [Hello microverse] <a name="about-project"> a project that displays Hello microverse</a>
 
 
-## 🛠 Built With <a name="built-with">HTML</a>
- <a name="built-with">CSS</a>
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
+ 
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -97,9 +61,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Displays Helllo Microverse]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,49 +82,41 @@ After you're finished please remove all the comments and instructions!
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+step 1:
+Clone this repo locally using git in the command line and the following command
+
+```
+git clone https://github.com/brightbrain20/Hello-microverse.git
+```
+
+Alternatively, you can just download the complete zip file and extract the folder in your directory
+
+Step 2:
+Copy All Project files are run using VSCODE. HTML can be viewed in browser.
+
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+1.  A vode editor
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+1. go to github and find the repository with HELLO-MICROVERSE
+2. click on code and copy then go to your gitbash and git clone the link into your system.
+3. git clone https://github.com/brightbrain20/Hello-microverse.git
 
 ### Install
 
 Install this project with:
+git clone https://github.com/brightbrain20/Hello-microverse.git
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
+<!-- ### Usage -->
+<!-- 
+To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -171,9 +126,9 @@ Example command:
 ```
 --->
 
-### Run tests
+<!-- ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -183,9 +138,9 @@ Example command:
 ```
 --->
 
-### Deployment
+<!-- ### Deployment -->
 
-You can deploy this project using:
+<!-- You can deploy this project using: -->
 
 <!--
 Example:
@@ -205,15 +160,15 @@ Example:
 
 👤 **Author1**
 
+- GitHub: [@githubhandle](https://github.com/brightbrain20)
+- Twitter: [@twitterhandle](https://twitter.com/BrightEzeamaka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bright-ezeamaka-752837237/)
+
+<!-- 👤 **Author2** -->
+<!-- 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,9 +178,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[add aminations]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,7 +233,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/brightbrain20/Hello-microverse/blob/master/license) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
